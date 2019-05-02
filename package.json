@@ -1,0 +1,22 @@
+{
+  "name": "bnwquit",
+  "version": "1.0.0",
+  "description": "Helps to leave bnw",
+  "main": "bnwquit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afwbkbc/bnwquit.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/afwbkbc/bnwquit/issues"
+  },
+  "homepage": "https://github.com/afwbkbc/bnwquit#readme",
+  "dependencies": {
+    "node-xmpp": "^1.1.0"
+  }
+}
