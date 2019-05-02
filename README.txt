@@ -18,3 +18,4 @@ var CONFIG = {
 }
 2) save
 3) node bnwquit.js
+  * it's recommended to avoid any bnw actions ( especially via bot ) during operation of this script, it may take several minutes but you will see progress in console log
